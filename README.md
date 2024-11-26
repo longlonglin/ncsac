@@ -15,6 +15,8 @@ source activate your_env_name
 4. Install **Pytorch** with version 1.13.0 or later, and install **torch-geometric** with version 2.2.0.
 
 ## Run
+Before running, you have to create a `ckpts` folder to save models.
+
 Execute the `main.py` file
 ```
 python main.py
